@@ -22,12 +22,3 @@ elif operator == "%" :
 
 else:
     print("Invalid Operation")
-
-
-
-C:\Users\Acer\PycharmProjects\pythonProject\.venv\Scripts\python.exe C:\Users\Acer\PycharmProjects\pythonProject\firstProgram.py 
-enter first number : 4566
-enter operator ( +, -, *, /, %): %
-enter second  number : 23
-12
-
